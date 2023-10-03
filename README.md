@@ -38,7 +38,7 @@
 
 | Summary | Title & Authors | Introduction | Links | 
 | :----: | :----: | :---: | :---: |
-| []() |[![Publish](https://img.shields.io/badge/Conference-ACL'23%20-blue)]()<br>[PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://aclanthology.org/2023.acl-long.721/) <br> Qingqing Cao, Bhargavi Paranjape, and Hannaneh Hajishirzi | ![PuMer](https://github.com/YunHaaaa/UROP/assets/63325450/43896cd9-9693-4d08-b849-37ebd590d93e)|[Github](https://github.com/csarron/PuMer) <br> [Paper](https://aclanthology.org/2023.acl-long.721/) |
+| [#1 PuMer](https://velog.io/@yun_haaaa/%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-3-PuMer-Pruning-and-Merging-Tokens-for-Efficient-Vision-Language-Models) |[![Publish](https://img.shields.io/badge/Conference-ACL'23%20-blue)]()<br>[PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://aclanthology.org/2023.acl-long.721/) <br> Qingqing Cao, Bhargavi Paranjape, and Hannaneh Hajishirzi | ![PuMer](https://github.com/YunHaaaa/UROP/assets/63325450/43896cd9-9693-4d08-b849-37ebd590d93e)|[Github](https://github.com/csarron/PuMer) <br> [Paper](https://aclanthology.org/2023.acl-long.721/) |
 
 
 <br>
