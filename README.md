@@ -1,4 +1,4 @@
-![image](https://github.com/YunHaaaa/UROP/assets/63325450/b12fe8f3-7d8b-4c8b-94f8-3b947eaf8b8d)# UROP 
+# UROP 
 
 ### Topic
 
